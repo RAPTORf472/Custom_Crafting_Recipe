@@ -1,0 +1,9 @@
+name: CustomCraftingRecipe
+main: me.raptor.ccr.Main
+author: RAPTOR
+version: 1.0
+description: An custom plugin
+api-version: 1.13
+
+commands:
+  AGP:
